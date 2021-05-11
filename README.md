@@ -1,24 +1,35 @@
-# CSS-Bootstrap
+# CSS-Javascript
 
-<h2>What is Bootstrap? </h2>
-  Bootstrap is a powerful front-end framework for faster and easier web development. It includes HTML and CSS based design templates for creating common user interface components like forms, buttons, navigations, dropdowns, alerts, modals, tabs, accordions, carousels, tooltips, and so on. Bootstrap gives you ability to create flexible and responsive web layouts with much less efforts.
-
-Refer to this video to get an insight on what Bootstrap is and how to get started: Bootstrap Basics Setting Up BootStrap
-
-Here is a tutorial which guides you on how to setup and integrate Bootstrap to your HTML Page: Setting Up Bootstrap
-
-You can always refer to W3Schools: BootStrap 4 Tutorial for more. You can also check these videos: freecodecamp.org ,Code With Harry.
-
-  <br>
 <h2> Advanced CSS- 'Last Weeks Content' </h2>
+<ul>
   <li><a href="https://www.youtube.com/playlist?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5">CSS Animation</a></li>
 </ul>
 
+<h2>What is Javascript? </h2>
+  Javascript is a dynamic computer programming language. It is lightweight and most commonly used as a part of web pages, whose implementations allow client-side script to interact with the user and make dynamic pages. It is an interpreted programming language with object-oriented capabilities.
+  <br>
+  Go through <a href ="https://www.youtube.com/watch?v=W6NZfCO5SIk">this</a> complete video to get started with Javascript
+  Alternatively you can also go through these series of articles if you prefer text over videos :-
+ - [Fundamentals part 1](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-1)
+ - [Fundamentals part 2](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-2)
+ - [Fundamentals part 3](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-3)
+ - [Clean code](https://www.theodinproject.com/courses/web-development-101/lessons/clean-code)
+ - [Fundamentals part 4](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-4)
+ - [DOM manipulation](https://www.theodinproject.com/courses/web-development-101/lessons/dom-manipulation)
+ - [Fundamentals part 5](https://www.theodinproject.com/courses/web-development-101/lessons/fundamentals-part-5)
+
+<h2>Extra Material</h2>
+  If you get stuck in the content covered till now or would like to explore HTML/CSS in detail visit the links below and navigate to the topic you would like to learn from the left sidebar.
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps">MDN</a></li>
+    <li><a href="https://www.wncc-iitb.org/wiki/index.php/JavaScript_Basics">WNCC</a></li>
+  </ul>
+<h2> Responsive </h2>
+  Responsive websites are mobile friendly websites that are able to adjust acc to the screen size, go through <a href='https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9Vh9MAA-XKnfJsWZnPZFw'>this</a> playlist to learn how to make your website responsive.
+
 <h2> Practice</h2>
-We won't have an different assignment this week just complete all the past material and try to add animations and transition to your last assignment.
-<br>
-Also try to add the following features :-
+While you will get a proper assignment next week you will have to add the following features to your existing website.
 <ul>
-  <li>Image Slider/li>
-  <li>Nav-Bar with drop-down lists</li>
-  <li>Animated 3D Bar Chart</li>
+  <li>Carousal Slider(Requires onlt HTML/CSS </li>
+  <li>Responsive Nav-Bar with drop down(Will be covered in the Responsive playlist)</li>
+  <li><a href="https://romeojeremiah.github.io/Counter-Project/">A Unique Counter</a>(Requires only basic Javascript)</li>
